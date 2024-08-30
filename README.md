@@ -1,5 +1,5 @@
 # ClimaTempo
-Aplicativo de previsão do tempo desenvolvido com python, usando API, a biblioteca customtkinter e outras auxiliares.
+Aplicativo para previsão do tempo utilizando API e interface gráfica cTk. Desenvolvido como atividade Curricular na disciplina de Programação Orientada a Objetos II.
 
 Bibliotecas: customtkinter, pillow, requests.
 
